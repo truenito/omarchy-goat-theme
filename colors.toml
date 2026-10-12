@@ -1,0 +1,39 @@
+# Goat — a quiet mountain theme by gvbrl.
+# Misty slate, fog parchment, moss, jade, and larch gold, taken from the
+# foggy-forest wallpapers.
+mode = "dark"
+
+accent = "#4e9470"
+selection = "#34443c"
+muted = "#5f6660"
+
+# Deep jade, a cool green that sits well against dark walnut tones.
+hyprland_active_border = "rgba(2f7d52ee) rgba(1c5838ee) 45deg"
+
+background = "#1c2023"
+dark_background = "#16191b"
+darker_background = "#111315"
+lighter_background = "#2a3034"
+
+foreground = "#d6d0bc"
+dark_foreground = "#a39e8a"
+light_foreground = "#e2dcc8"
+bright_foreground = "#ece6d3"
+
+red = "#b0675a"
+yellow = "#c9a85c"
+orange = "#c08048"
+green = "#6f9a6a"
+cyan = "#6a9a96"
+blue = "#6a86a0"
+magenta = "#9a7a96"
+brown = "#6b5a45"
+
+bright_red = "#cf8a7c"
+bright_yellow = "#e2c47e"
+bright_orange = "#dca06c"
+bright_green = "#93b98d"
+bright_cyan = "#8fbab5"
+bright_blue = "#8ea8c0"
+bright_magenta = "#b99bb5"
+bright_brown = "#8f7a60"
