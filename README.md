@@ -1,10 +1,10 @@
-# Goat
+# goat
 
 *A quiet mountain theme for [Omarchy](https://omarchy.org/), by truenito.*
 
 Above the tree line the fog rolls in slowly. The pines go soft and grey, and
 somewhere on the ridge a goat stands perfectly still, sure-footed and in no
-hurry at all. Goat is that moment kept on your desktop: calm, unhurried, a
+hurry at all. goat is that moment kept on your desktop: calm, unhurried, a
 little old-fashioned in the best way.
 
 - **Dark walnut** backgrounds, deep and warm like oiled wood
