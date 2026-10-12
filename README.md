@@ -1,6 +1,6 @@
 # Goat
 
-*A quiet mountain theme for [Omarchy](https://omarchy.org/), by gvbrl.*
+*A quiet mountain theme for [Omarchy](https://omarchy.org/), by truenito.*
 
 Above the tree line the fog rolls in slowly. The pines go soft and grey, and
 somewhere on the ridge a goat stands perfectly still, sure-footed and in no
