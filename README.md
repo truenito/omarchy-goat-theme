@@ -7,9 +7,10 @@ somewhere on the ridge a goat stands perfectly still, sure-footed and in no
 hurry at all. Goat is that moment kept on your desktop: calm, unhurried, a
 little old-fashioned in the best way.
 
-- **Misty slate** backgrounds, like wet stone under low cloud
-- **Fog parchment** text, warm and easy on the eyes
-- **Moss, lichen and larch gold** for the details
+- **Dark walnut** backgrounds, deep and warm like oiled wood
+- **Warm cream** text, soft and luxurious
+- **Light-brown and larch-gold** highlights, and warm brown folders
+- **Deep green** directories in the terminal, crisp against the cream
 - **Deep jade** window borders, the colour of polished stone against dark walnut
 - **A grainy, retro fog** in the wallpapers: soft daylight mist, silver dusk haze
 
